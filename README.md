@@ -24,9 +24,13 @@ Soon™️! Meanwhile, you can [try our nightly builds](https://github.com/Deskt
 ### I have downloaded mods, but it doesn't work! Help!
 
 Checklist:
+
 [x] Set EnableMods in config.ini from False to True
+
 [x] Unzip the mods, put them in a seperate folder for each of them and put the folders in the Mods folder
+
 [x] Restart the goose
+
 [x] Accept the warning
 
 ### Can I give the developers... money?
