@@ -25,13 +25,13 @@ Soon™️! Meanwhile, you can [try our nightly builds](https://github.com/Deskt
 
 Checklist:
 
-[x] Set EnableMods in config.ini from False to True
+* [x] Set EnableMods in config.ini from False to True
 
-[x] Unzip the mods, put them in a seperate folder for each of them and put the folders in the Mods folder
+* [x] Unzip the mods, put them in a seperate folder for each of them and put the folders in the Mods folder&*
 
-[x] Restart the goose
+* [x] Restart the goose
 
-[x] Accept the warning
+* [x] Accept the warning
 
 ### Can I give the developers... money?
 
